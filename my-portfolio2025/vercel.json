@@ -10,11 +10,5 @@
   ],
   "env": {
     "NODE_ENV": "production"
-  },
-  "functions": {
-    "build": {
-      "memory": 1024,
-      "maxDuration": 60
-    }
   }
 }
