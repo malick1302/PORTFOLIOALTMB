@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "postinstall": "npm install vite"
+    "postinstall": "npm install vite"
   },
   "dependencies": {
     "react": "^19.0.0",
